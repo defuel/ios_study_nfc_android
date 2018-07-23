@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">nfc-android</string>
+    <string name="device_name">nfc-android</string>
+    <string name="service_uuid">244cb31c-2750-4b80-b052-9cc4975e9031</string>
+    <string name="characteristic_uuid">d1719ec0-0d1f-4c32-8797-714746794482</string>
+    <string name="characteristic_config_uuid">c67386af-2a84-4dc9-84ba-a9ed03408abc</string>
+</resources>
